@@ -46,6 +46,6 @@ Below instruction are provided based on Ubuntu OS
     report-diff.json link : https://github.com/jailakwale/Data-Pipeline2-dsti/blob/main/src/main/resources/report-diff.json
     
     
-   # NOTE: Please refer the Project Report.docx
+   ## NOTE: Please refer the Project Report.docx
    
-   Thank you!
+   ## Thank you!
