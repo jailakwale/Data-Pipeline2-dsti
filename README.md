@@ -41,10 +41,11 @@ Below instruction are provided based on Ubuntu OS
          path for brazil_covid19.csv
          path for new_brazil_covid19.csv
          path where report-diff.json to be saved
-         
-    • how to copy the data to AWS s3 so that the AWS spark-submit command executes without error (aws s3 …)
-    • how to fetch the new_brazil_covid19.csv file (aws s3 …)
-    • how to fetch the report_diff.json file  (aws s3 …)
     
     new_brazil_covid19.csv link : https://github.com/jailakwale/Data-Pipeline2-dsti/blob/main/src/main/resources/new_brazil_covid19.csv
     report-diff.json link : https://github.com/jailakwale/Data-Pipeline2-dsti/blob/main/src/main/resources/report-diff.json
+    
+    
+   NOTE: Please refer the Project Report.docx
+   
+   Thank you!
